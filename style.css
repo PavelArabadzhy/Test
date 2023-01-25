@@ -1,0 +1,41 @@
+body {background-color:#b0c4de;}
+h1 {
+  text-align:center;
+  font-style: Arial;
+  font-variant: normal;
+  font-family: Fantasy;
+  color: darkblue;
+  font-size: 2.5rem;
+}
+
+img {
+  border: 5px solid darkblue;
+  display: block; 
+  margin: 1 auto;
+  width: 150px ;
+  }
+ p {
+    font-family: Georgia;
+    font-size: 1.5rem;
+    }
+ h3 {
+   font-style: Arial;
+   font-size: 2rem;
+   color: darkblue;
+ }
+ a {
+   font-family: Georgia;
+    font-size: 1.5rem;
+ }
+ ul{
+  font-size: 1.5rem;
+}
+li, {
+  line-height: 1.5;
+}
+table {
+  table-layout: fixed;
+  width: 20%;
+  border-collapse: collapse;
+  border: 6px darkblue;
+}
